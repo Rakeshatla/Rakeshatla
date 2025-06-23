@@ -2,8 +2,8 @@
 
 **🎯 About Me**
 - 🌱 I'm actively learning **Machine Learning & Deep Learning**, with a focus on real-world applications.
-- 👯 I love contributing to open‑source, particularly in ML, and have taken part in projects like [*Project Name 1*] and [*Project Name 2*].
-- 💬 Ask me about **Python**, **TensorFlow**, **Scikit‑learn**, or **full-stack JavaScript**.
+- 👯 I love contributing to open‑source, particularly in ML, and have taken part in projects like [HealthScope].
+- 💬 Ask me about **Python**, **TensorFlow**, **Scikit‑learn**, or **MERN Stack**.
 - ⚡ Fun fact: I’m an avid chess player and enjoy sketching in my free time.
 
 ---
